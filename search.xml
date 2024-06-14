@@ -4,6 +4,46 @@
   
     
     <entry>
+      <title>My Gallery</title>
+      <link href="/2024/06/14/My-Gallery/"/>
+      <url>/2024/06/14/My-Gallery/</url>
+      
+        <content type="html"><![CDATA[<h2 id="My-Gallery-test"><a href="#My-Gallery-test" class="headerlink" title="My Gallery test"></a>My Gallery test</h2><h3 id="Here-is-using-asset-img"><a href="#Here-is-using-asset-img" class="headerlink" title="Here is using asset_img"></a>Here is using asset_img</h3><h3 id="Here-is-using-img-label"><a href="#Here-is-using-img-label" class="headerlink" title="Here is using img label"></a>Here is using img label</h3><img src="../img/404-bg.jpg">]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Learn to use Hexo</title>
+      <link href="/2024/06/14/Learn-to-use-Hexo/"/>
+      <url>/2024/06/14/Learn-to-use-Hexo/</url>
+      
+        <content type="html"><![CDATA[<h2 id="Test-to-use-tags-and-category-in-Hexo"><a href="#Test-to-use-tags-and-category-in-Hexo" class="headerlink" title="Test to use tags and category in Hexo"></a>Test to use tags and category in Hexo</h2><p>This post contains 2 tags and 1 category.</p><h2 id="Test-to-use-code-style"><a href="#Test-to-use-code-style" class="headerlink" title="Test to use code style"></a>Test to use code style</h2><p>Here is a python script.</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">pip install Hexo</span><br><span class="line">python run app.py</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> Ignore </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Test </tag>
+            
+            <tag> Hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello, there! It&#39;s my first day to use Hexo.</title>
       <link href="/2024/06/13/hello-world/"/>
       <url>/2024/06/13/hello-world/</url>
